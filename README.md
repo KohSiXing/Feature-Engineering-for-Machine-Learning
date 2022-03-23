@@ -12,6 +12,7 @@ This repository will contain my tutorial solutions for the module BT3017 Feature
 | 4   | 4			| [BT3017 Tutorial 4](./BT3017%20Tutorial%204.ipynb) |
 | 5   | 5			| [BT3017 Tutorial 5](./BT3017%20Tutorial%205.ipynb) |
 | 6   | 6			| [BT3017 Tutorial 6](./BT3017%20Tutorial%206.ipynb) |
+| 7   | 7			| [BT3017 Tutorial 7](./BT3017%20Tutorial%207.ipynb) |
 
 ### Additional References
 | S/N | Name 		| File 											|
